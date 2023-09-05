@@ -7,3 +7,11 @@ body {
 .span {
     color: black;
 }
+.header {
+    display: grid;
+    grid-template-columns: 50% 50%
+    width: 160px
+    }
+img {
+    width: 100%;
+  }
